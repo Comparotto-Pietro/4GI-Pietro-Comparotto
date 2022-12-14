@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bagaglio
+comment1.params=
+comment1.target=Bagaglio()
+comment2.params=w
+comment2.target=Bagaglio(double)
+comment3.params=w
+comment3.target=void\ setWeight(double)
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=
+comment5.target=boolean\ sovrappeso()
+comment6.params=b
+comment6.target=boolean\ equals(Bagaglio)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

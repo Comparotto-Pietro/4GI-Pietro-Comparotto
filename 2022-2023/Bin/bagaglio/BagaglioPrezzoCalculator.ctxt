@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BagaglioPrezzoCalculator
+comment1.params=
+comment1.target=BagaglioPrezzoCalculator()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=double\ calcolaPrezzo()
+comment4.params=
+comment4.target=void\ descriviAttivit\u00E0()
+comment5.params=
+comment5.target=void\ prendiInput()
+comment6.params=r
+comment6.target=void\ visualizzaRisultati(double)
+numComments=7
