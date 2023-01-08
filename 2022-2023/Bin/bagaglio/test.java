@@ -1,8 +1,9 @@
 package bagaglio;
-public class test
+public class Test
 {
-    public test()
+    public static void mani()
     {
-       
+       //crea un oggetto calculator
+        // richiama il metodo start sull'oggetto
     }
 }
