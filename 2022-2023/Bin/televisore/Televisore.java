@@ -30,7 +30,7 @@ public class Televisore
         }else{
             this.pollici=0;
         }
-               
+               //
         this.canale=0;
         
         this.volume=0;
