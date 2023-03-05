@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=lis
+comment2.target=Calculator(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ descrizioneApp()
+comment5.params=
+comment5.target=void\ prendiInput()
+comment6.params=
+comment6.target=void\ visualizzaBolletta()
+comment7.params=fileName
+comment7.target=void\ leggiFile(java.lang.String)
+comment8.params=v
+comment8.target=void\ memorizzaContatoreNellaLista(java.lang.String[])
+comment9.params=
+comment9.target=void\ scriviFile()
+numComments=10
